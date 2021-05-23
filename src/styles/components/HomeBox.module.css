@@ -1,0 +1,55 @@
+.homeBoxContainer{
+    height: 25rem;
+    
+    background: var(--white);
+    border-radius: 5px;
+    box-shadow: 0 0 60px rgba(0,0,0,0.05);
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    text-align: center;
+}
+
+.homeBoxContainer img{
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
+}
+
+.homeBoxContainer strong{
+    font-weight: 600;
+    font-size: 1.6rem;
+    color: var(--title);
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.homeBoxContainer p{
+    font-weight: 40;
+    font-size: 1.2rem;
+    color: var(--text);
+    text-align: center;
+    margin-top: 0.2rem;
+}
+
+.homeBoxContainer button{
+    height: 3.5rem;
+    width: 70%;
+
+    justify-content: center;
+
+    color: var(--white);
+    border: 0;
+    border-radius: 5px;
+
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 0.7rem;
+
+    transition: filter 0.2s;
+}
+
+
+

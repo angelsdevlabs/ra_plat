@@ -1,0 +1,70 @@
+.topBarContainer{
+    display: flex;
+    height: 60px;
+    
+    background: var(--white);
+    box-shadow: 0 0 60px rgba(0,0,0,0.05);
+    padding: 0.2rem 1.2rem;
+    align-items: center;
+    
+    justify-content: space-between;
+}
+
+.topBarMenu > img{
+    width: 45px;
+    height: 45px;    
+    margin-left: -5px;
+    margin-right: 5px;
+}
+
+.topBarMenu{
+    display: flex;
+    align-items: center;
+    margin-left: 0.5rem;
+}
+
+.topBarMenu strong{
+    font-weight: 600;
+    color: var(--title);
+    padding: 1.5rem;
+}
+
+.topBarLeft
+{
+    display: flex;
+    align-items:center;   
+}
+
+.topBarAngelsCoins
+{
+    background: var(--background);
+    display: flex;
+    align-items: center;
+    border: 0;
+    border-radius: 5px;
+    height: 80%;
+    padding: 5px;
+        
+}
+
+.topBarAngelsCoins > img{
+    width: 27px;
+    height: 27px;    
+}
+
+.topBarAngelsCoins strong{
+    font-family: Rajdhani;
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: var(--title);
+    text-align: left;
+    margin-left: 0.5rem;
+}
+
+.topBarProfile img{
+    display: flex;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    margin-left: 1.5rem;
+}

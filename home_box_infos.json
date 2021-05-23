@@ -1,0 +1,30 @@
+[
+    {
+        "title": "CORRIDA CASA BOM PASTOR",
+        "description": "INSCREVA-SE E GANHE ANGELS COINS!",
+        "img": "banner_bom_pastor.png",
+        "btnText": "INSCREVA-SE",
+        "btnColor": "#FF6D6D"
+    },
+    {
+        "title": "VOCÊ TEM ANGELS COINS",
+        "description": "AJUDE AS ONGS. DOE AGORA!",
+        "img": "banner_doacao.jpg",
+        "btnText": "DOAR",
+        "btnColor": "#9997FF"
+    },
+    {
+        "title": "SEJA UM ASSINANTE",
+        "description": "AJUDE MAIS E RECEBA BENEFÍCIOS!",
+        "img": "banner_runners_angels.png",
+        "btnText": "CONHEÇA",
+        "btnColor": "#3A31BF"
+    },
+    {
+        "title": "VALIDE SUAS CORRIDAS",
+        "description": "SEUS KITS ESTÃO TE ESPERANDO!",
+        "img": "banner_validar_corrida.jpg",
+        "btnText": "VALIDAR",
+        "btnColor": "#FF6D6D"
+    }
+]

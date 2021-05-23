@@ -1,8 +1,12 @@
+import { TopBar } from '../components/TopBar';
 import '../styles/global.css';
 
 function MyApp({ Component, pageProps }) {
   return (
-    <Component {...pageProps} />
+    <div>
+      <TopBar />
+      <Component {...pageProps} />
+    </div>
   );
 }
 
